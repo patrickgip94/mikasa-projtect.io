@@ -25,7 +25,6 @@ const Footer = () => {
         <p>Patrick Gip</p>
         <p>Presents</p>
         <p>Aspiring Software Engineer</p>
-        <p>Family first!</p>
       </div>
       {/* Fourth Col */}
       <div className="space-y-4 text-xs text-gray-800">
