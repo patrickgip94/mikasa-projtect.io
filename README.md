@@ -1,27 +1,15 @@
-# Next.js + Tailwind CSS Example
+# Mikasa
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+Mikasa is a single-page, full stack web application inspired by Airbnb. Giving users the ability to view, book, and search for listings by location. 
 
-## Deploy your own
+It utilizes **Next.js, TailwindCSS, TypeScript, React.js,** and **HeroIcons.**
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+# Screenshots
 
-## How to use
+![enter image description here](https://i.imgur.com/LZA8ruI.png)
+![enter image description here](https://i.imgur.com/oRrrchV.png)![enter image description here](https://i.imgur.com/C6tJF2Y.png)
+![enter image description here](https://i.imgur.com/UU2CbTE.png)
+## Development
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+Mikasa is hosted by **Vercel**
