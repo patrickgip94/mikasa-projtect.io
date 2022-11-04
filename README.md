@@ -7,17 +7,17 @@ It utilizes **Next.js, TailwindCSS, TypeScript, React.js,** and **HeroIcons.**
 
 # Screenshots
 
-![enter image description here](https://i.imgur.com/LZA8ruI.png)
-*
+!(https://i.imgur.com/LZA8ruI.png)
+*___________________________________________________________________*
 
-![enter image description here](https://i.imgur.com/oRrrchV.png)
-*
+!(https://i.imgur.com/oRrrchV.png)
+*___________________________________________________________________*
 
-![enter image description here](https://i.imgur.com/C6tJF2Y.png)
-*
+!(https://i.imgur.com/C6tJF2Y.png)
+*___________________________________________________________________*
 
-![enter image description here](https://i.imgur.com/UU2CbTE.png)
-*
+!(https://i.imgur.com/UU2CbTE.png)
+*___________________________________________________________________*
 ## Development
 
 Mikasa is hosted by **Vercel**
