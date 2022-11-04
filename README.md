@@ -28,3 +28,6 @@ It utilizes **Next.js, TailwindCSS, TypeScript, React.js,** and **HeroIcons.**
 ## Development
 
 Mikasa is hosted by **Vercel**
+
+## Link
+https://mikasa-projtect-io-1.vercel.app/
